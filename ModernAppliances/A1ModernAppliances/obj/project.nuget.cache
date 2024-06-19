@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFE6GbcMnTXqqVtBkLJ95VD468Wv9LgQbaXD/IzK+1oncnrHI70l7uU0Tm6i4V3oQLcBya8MtNS3GnrdBVwXcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mclif\\Downloads\\Assignment1Skeleton\\ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mclif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mclif\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mclif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mclif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
